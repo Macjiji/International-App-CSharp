@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">International App</string>
+
+  <string name="app_name">International App</string>
+  <string name="choose_ctry">Choisir un pays</string>
+  <string name="selected_language">Vous avez selectionné</string>
+  <string name="date_short_title">Date du jour en version courte</string>
+  <string name="date_long_title">Date du jour en version longue</string>
+
+  <array name="countries">
+    <item name="fr">Français</item>
+    <item name="en">Anglais</item>
+  </array>
+
+</resources>
+

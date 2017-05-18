@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">International App</string>
+  <string name="choose_ctry">Choose a country</string>
+  <string name="selected_language">You have selected</string>
+  <string name="date_short_title">Short current date</string>
+  <string name="date_long_title">Long current date</string>
+
+  <array name="countries">
+    <item name="fr">French</item>
+    <item name="en">English</item>
+  </array>
+
+
+</resources>
